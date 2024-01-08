@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: bisque;
+    display: flex;
+}
+
+.logo {
+    border: 2px solid black;
+    background-color: greenyellow;
+}
+
+h1 {
+    padding-top: 5px;
+    color: black;
+}
