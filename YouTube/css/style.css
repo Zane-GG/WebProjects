@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 56px;
+    /* background-color: grey; */
+}
+
+.fa-bars {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    color: aqua;
+    /* background-color: rgb(12, 22, 22); */
+}
+
+/* #placeholder {
+    background-color: aqua;
+    width: 20px;
+    height: 20px;
+} */
